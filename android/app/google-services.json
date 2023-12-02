@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "492712902462",
+    "project_id": "soical-app-ef9a8",
+    "storage_bucket": "soical-app-ef9a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492712902462:android:35146f15b130f6e411766f",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492712902462-38mumbmnl373rjboa28hds71e2enk4j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_app",
+            "certificate_hash": "055656817e3beabcf9ebfc0052e3527d22e8a724"
+          }
+        },
+        {
+          "client_id": "492712902462-s2jkvqhn47bcsqnvpvsqoocsjbagpmjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdGLgYh6lwdbza5hA140o2b2ynnqOJ7vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492712902462-s2jkvqhn47bcsqnvpvsqoocsjbagpmjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
